@@ -1,1 +1,1 @@
-wesynq
+wesynq-website
